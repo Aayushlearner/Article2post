@@ -66,3 +66,16 @@ If you'd like to contribute:
 ---
 
 ✅ You can add this code to the `README.md` file in your **Article2Post** project. Let me know if you need further modifications or additions! 🚀
+
+
+<img width="1470" alt="Screenshot 2025-03-20 at 20 30 52" src="https://github.com/user-attachments/assets/07d20898-8190-4f10-b6e6-e69f7c918a75" />
+<img width="1470" alt="Screenshot 2025-03-20 at 20 31 06" src="https://github.com/user-attachments/assets/12929880-fccb-4512-9396-b4ac8e8b87ef" />
+<img width="1470" alt="Screenshot 2025-03-20 at 20 31 10" src="https://github.com/user-attachments/assets/3a22d246-1e1f-4edf-92fb-cafb2052f2b6" />
+
+
+
+
+
+
+
+
